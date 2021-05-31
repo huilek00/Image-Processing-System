@@ -1,5 +1,5 @@
 # Image-Processing-System
-# This is a program about the application of linear algebra in image processing.
+### This is a program about the application of linear algebra in image processing.
 # The program is separated into two parts:
 # 1st part: Explanation of matrix application in image processing system
 # 2nd part: Show the output of image processing
